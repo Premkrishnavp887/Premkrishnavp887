@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Premkrishnavp887&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Premkrishnavp887
+&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -36,7 +37,8 @@ Current Learning:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Premkrishnavp887">
+<a href="https://github.com/Premkrishnavp887
+">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -74,9 +76,11 @@ Current Learning:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Premkrishnavp887
+&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premkrishnavp887
+&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -86,7 +90,8 @@ Current Learning:
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Premkrishnavp887
+&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -96,7 +101,8 @@ Current Learning:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Premkrishnavp887
+&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -106,7 +112,8 @@ Current Learning:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Premkrishnavp887
+&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
